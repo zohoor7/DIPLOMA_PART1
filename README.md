@@ -37,11 +37,3 @@ It covers Python basics, important libraries, and hands-on projects.
 - Feature engineering
 - Project
 
----
-
-## How to Use This Repository
-1. Open the notebooks in Google Colab for interactive learning.
-2. Each lesson has:
-   - Explanation in Markdown cells
-   - Practical code examples in Code cells
-3. Save your progress frequently using:
